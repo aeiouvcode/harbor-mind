@@ -1,6 +1,10 @@
 # HARBOR//MIND 03
 
-Local-first storm-port controller with a real-model option through Token Harbor. This is a real LLM integration, not Jev.
+Local-first storm-port controller with a real-model option through Token Harbor.
+
+![HARBOR//MIND storm-port controller](docs/screenshot.jpg)
+
+**Live:** https://aeiouvcode.github.io/harbor-mind/
 
 ## Run locally
 
